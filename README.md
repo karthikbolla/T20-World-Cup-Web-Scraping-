@@ -18,7 +18,7 @@ The project is organized into the following files and folders:
 *data: a folder that contains the t20 worldcup.csv file with the extracted data
 *README.md: this file
 
-## Contents of t20_worldcup.csv:
+## Contents of t20 worldcup.csv:
 The t20 worldcup.csv file contains the following information for each match in the T20 World Cup:
 *Date of the match
 *Name of the match
