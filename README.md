@@ -9,7 +9,9 @@ This is a web scraping project that I developed to extract data from the T20 Wor
 
 ## Getting Started:
 To use this project, you will need to have Python and the Beautiful Soup package installed on your computer. You can install Beautiful Soup using the following command:
-`pip install beautifulsoup4`
+```
+pip install beautifulsoup4
+```
 * Once you have Beautiful Soup installed, you can run the web_scraping.py file to extract the data from the T20 World Cup website. The extracted data will be saved in a CSV file named t20 worldcup.csv in the data folder.
 
 ## Project Structure:
